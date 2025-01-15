@@ -1,1 +1,2 @@
 třetí commit zvrchu
+oprava třetího commitu
